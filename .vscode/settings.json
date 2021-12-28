@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    },
+    "editor.bracketPairColorization.enabled": true,
+}
